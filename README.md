@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shawnmarkus
 - 👀 I’m interested in making UI and doing some productive work that i can see
-- 🌱 I’m currently learning WEBD (MEVN)
-- 💞️ I’m looking to collaborate on "webdev"
+- 💞️ I’m looking to collaborate on "webdev" and "mobile app development"
 - 📫 How to reach me shivamsharmaskp94@gmail.com
 
 <!---
